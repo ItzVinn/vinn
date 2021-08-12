@@ -156,7 +156,7 @@ a img{
   }
 
   .android-drawer span.mdl-navigation__link.mdl-navigation__link {
-    color: #8bc34a;
+    color: #FDF5E6;
   }
 
   .android-drawer .mdl-layout-title {
@@ -329,7 +329,7 @@ a img{
 
 .android-link {
   text-decoration: none;
-  color: #8bc34a !important;
+  color: #FDF5E6 !important;
 }
 
   .android-link:hover {
@@ -434,7 +434,7 @@ a img{
 }
 
   .android-footer a:hover {
-    color: #8bc34a;
+    color: #FDF5E6;
   }
 
   .android-footer .mdl-mega-footer--top-section::after {
