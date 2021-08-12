@@ -122,7 +122,7 @@ a img{
   }
 
     .android-navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #FDF5E6;
+      border-bottom: 4px solid #767777;
     }
 
   .android-search-box {
@@ -161,7 +161,7 @@ a img{
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #6ab344;
+    background: #FDF5E6;
     height: 160px;
   }
 
